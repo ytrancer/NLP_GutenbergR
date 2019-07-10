@@ -2,7 +2,7 @@
 NLP Analysis and Wordcloud Visualisations
 
 
-This exersise uses The Winderful Wizard of Oz and Treasure Island, avaliable from the GutenbergR library, to perform the following:
+This exersise uses "The Wonderful Wizard of Oz" and "Treasure Island", avaliable from the GutenbergR library, to perform the following:
 
 * Tidy format of text
 * Word counts
